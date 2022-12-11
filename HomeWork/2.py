@@ -11,4 +11,3 @@ def number(n):
 
 print(number(7))
 
-
